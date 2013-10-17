@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"Carter Addon Pack - Fonts" 
+	"version"			"2.0"
+	"author_name"		"Rafaël De Jongh, Madman07, Llapp, locotus_1, AlexALX"
+	"author_email"		"info@sg-carterpack.com"
+	"author_url"		"www.sg-carterpack.com"
+	"info"				"The fonts for the Stargate Carter Addon Pack"
+}
